@@ -1118,9 +1118,9 @@
 														"$ref": "AAAAAAGZE4r6NZxYjxs="
 													},
 													"font": "Arial;13;0",
-													"left": 32.72998046875,
+													"left": 30.55908203125,
 													"top": 13,
-													"width": 134.681640625,
+													"width": 120.10107421875,
 													"height": 13,
 													"text": "DiagramaDeSecuencia"
 												},
@@ -1133,7 +1133,7 @@
 													"font": "Arial;13;1",
 													"left": 13,
 													"top": 13,
-													"width": 14.72998046875,
+													"width": 12.55908203125,
 													"height": 13,
 													"text": "sd"
 												}
@@ -2830,7 +2830,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGZE4r6NZxV/nU="
 							},
-							"name": "Role2"
+							"name": "Role2",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2849,7 +2850,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGZE4r6NZxV/nU="
 							},
-							"name": "Role4"
+							"name": "Role4",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",

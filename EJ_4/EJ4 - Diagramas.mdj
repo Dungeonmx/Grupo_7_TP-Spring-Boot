@@ -2226,7 +2226,7 @@
 														"$ref": "AAAAAAGZDGqpM9S6QOo="
 													},
 													"edgePosition": 1,
-													"text": "1.1 : calcularEstadisticas()"
+													"text": "1.1 : clacularEstadisticas()"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -2310,118 +2310,6 @@
 										},
 										{
 											"_type": "UMLSeqMessageView",
-											"_id": "AAAAAAGZUGTPGK+CIXU=",
-											"_parent": {
-												"$ref": "AAAAAAGZDChkktJSq00="
-											},
-											"model": {
-												"$ref": "AAAAAAGZUGTPGK+BttI="
-											},
-											"subViews": [
-												{
-													"_type": "EdgeLabelView",
-													"_id": "AAAAAAGZUGTPGK+DjMI=",
-													"_parent": {
-														"$ref": "AAAAAAGZUGTPGK+CIXU="
-													},
-													"model": {
-														"$ref": "AAAAAAGZUGTPGK+BttI="
-													},
-													"font": "Arial;13;0",
-													"left": 727,
-													"top": 128,
-													"width": 122.814453125,
-													"height": 13,
-													"alpha": 2.1934659940769303,
-													"distance": 48.010415536631214,
-													"hostEdge": {
-														"$ref": "AAAAAAGZUGTPGK+CIXU="
-													},
-													"edgePosition": 1,
-													"text": "clacularEstadisticas()"
-												},
-												{
-													"_type": "EdgeLabelView",
-													"_id": "AAAAAAGZUGTPGK+EqqA=",
-													"_parent": {
-														"$ref": "AAAAAAGZUGTPGK+CIXU="
-													},
-													"model": {
-														"$ref": "AAAAAAGZUGTPGK+BttI="
-													},
-													"font": "Arial;13;0",
-													"left": 744,
-													"top": 112,
-													"width": 79.498046875,
-													"height": 13,
-													"alpha": 2.483702906104882,
-													"distance": 55.60575509783138,
-													"hostEdge": {
-														"$ref": "AAAAAAGZUGTPGK+CIXU="
-													},
-													"edgePosition": 1,
-													"text": "«assosiation»"
-												},
-												{
-													"_type": "EdgeLabelView",
-													"_id": "AAAAAAGZUGTPGK+FfhA=",
-													"_parent": {
-														"$ref": "AAAAAAGZUGTPGK+CIXU="
-													},
-													"model": {
-														"$ref": "AAAAAAGZUGTPGK+BttI="
-													},
-													"visible": false,
-													"font": "Arial;13;0",
-													"left": 739,
-													"top": 156,
-													"height": 13,
-													"alpha": -1.5707963267948966,
-													"distance": 10,
-													"hostEdge": {
-														"$ref": "AAAAAAGZUGTPGK+CIXU="
-													},
-													"edgePosition": 1
-												},
-												{
-													"_type": "UMLActivationView",
-													"_id": "AAAAAAGZUGTPGK+GUz4=",
-													"_parent": {
-														"$ref": "AAAAAAGZUGTPGK+CIXU="
-													},
-													"model": {
-														"$ref": "AAAAAAGZUGTPGK+BttI="
-													},
-													"font": "Arial;13;0",
-													"left": 713,
-													"top": 172,
-													"width": 14,
-													"height": 44
-												}
-											],
-											"font": "Arial;13;0",
-											"head": {
-												"$ref": "AAAAAAGZDGZZg9REoEQ="
-											},
-											"tail": {
-												"$ref": "AAAAAAGZDGZZg9REoEQ="
-											},
-											"points": "719:152;749:152;749:172;726:172",
-											"nameLabel": {
-												"$ref": "AAAAAAGZUGTPGK+DjMI="
-											},
-											"stereotypeLabel": {
-												"$ref": "AAAAAAGZUGTPGK+EqqA="
-											},
-											"propertyLabel": {
-												"$ref": "AAAAAAGZUGTPGK+FfhA="
-											},
-											"activation": {
-												"$ref": "AAAAAAGZUGTPGK+GUz4="
-											}
-										},
-										{
-											"_type": "UMLSeqMessageView",
 											"_id": "AAAAAAGZUGYzWK/AbDs=",
 											"_parent": {
 												"$ref": "AAAAAAGZDChkktJSq00="
@@ -2440,9 +2328,9 @@
 														"$ref": "AAAAAAGZUGYzWK+/Zw4="
 													},
 													"font": "Arial;13;0",
-													"left": 765,
+													"left": 741,
 													"top": 168,
-													"width": 468.88232421875,
+													"width": 508.63134765625,
 													"height": 13,
 													"alpha": 1.5707963267948966,
 													"distance": 10,
@@ -2450,7 +2338,7 @@
 														"$ref": "AAAAAAGZUGYzWK/AbDs="
 													},
 													"edgePosition": 1,
-													"text": "EstadisticasResponse(this.promedio(), this.min(), this.max(), this.numeros.length)"
+													"text": "1.1.1 : EstadisticasResponse(this.promedio(), this.min(), this.max(), this.numeros.length)"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -2462,7 +2350,7 @@
 														"$ref": "AAAAAAGZUGYzWK+/Zw4="
 													},
 													"font": "Arial;13;0",
-													"left": 974,
+													"left": 970,
 													"top": 153,
 													"width": 50.5908203125,
 													"height": 13,
@@ -2485,7 +2373,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 999,
+													"left": 995,
 													"top": 188,
 													"height": 13,
 													"alpha": -1.5707963267948966,
@@ -2519,7 +2407,7 @@
 											"tail": {
 												"$ref": "AAAAAAGZDGZZg9REoEQ="
 											},
-											"points": "726:184;1272:184",
+											"points": "719:184;1272:184",
 											"nameLabel": {
 												"$ref": "AAAAAAGZUGYzWK/B1vc="
 											},
@@ -2899,7 +2787,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGZDChkktJRDas="
 									},
-									"name": "calcularEstadisticas()",
+									"name": "clacularEstadisticas()",
 									"source": {
 										"$ref": "AAAAAAGZDGXeOdQcImQ="
 									},
@@ -2908,21 +2796,6 @@
 									},
 									"stereotype": "assosiation",
 									"sequenceNumber": "1.1"
-								},
-								{
-									"_type": "UMLMessage",
-									"_id": "AAAAAAGZUGTPGK+BttI=",
-									"_parent": {
-										"$ref": "AAAAAAGZDChkktJRDas="
-									},
-									"name": "clacularEstadisticas()",
-									"source": {
-										"$ref": "AAAAAAGZDGZZg9Q9wYI="
-									},
-									"target": {
-										"$ref": "AAAAAAGZDGZZg9Q9wYI="
-									},
-									"stereotype": "assosiation"
 								},
 								{
 									"_type": "UMLMessage",
@@ -2937,7 +2810,8 @@
 									"target": {
 										"$ref": "AAAAAAGZUGWJqK+evOQ="
 									},
-									"messageSort": "createMessage"
+									"messageSort": "createMessage",
+									"sequenceNumber": "1.1.1"
 								},
 								{
 									"_type": "UMLMessage",

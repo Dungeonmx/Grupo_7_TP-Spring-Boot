@@ -2696,9 +2696,9 @@
 														"$ref": "AAAAAAGZDKdssvx0z2w="
 													},
 													"font": "Arial;13;0",
-													"left": 78.55908203125,
+													"left": 80.72998046875,
 													"top": 13,
-													"width": 120.10107421875,
+													"width": 134.681640625,
 													"height": 13,
 													"text": "DiagramaDeSecuencia"
 												},
@@ -2711,7 +2711,7 @@
 													"font": "Arial;13;1",
 													"left": 61,
 													"top": 13,
-													"width": 12.55908203125,
+													"width": 14.72998046875,
 													"height": 13,
 													"text": "sd"
 												}
